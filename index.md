@@ -2,7 +2,7 @@
 
 # --- My projects---
 ### Main
- - [ObjectBoard](./ObjectBoard.md)
+ - [ObjectBoard](https://mrlimeick.github.io/ObjectBoard/)
  - Tx4(soon)
 
 ### Other
