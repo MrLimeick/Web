@@ -1,7 +1,4 @@
----
-layout: default
----
+# ObjectBoard
+### an easy program to create animation from sprites
 
-# ObjectBoadr
-
-[-Download-](./another-page.html)
+[-Download-](https://github.com/MrLimeick/ObjectBoard/releases/download/1.0/ObjectBoard.zip)
