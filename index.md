@@ -1,4 +1,4 @@
 # HI! 
-[Link to objectboard](./ObjectBoard.html).
+[Link to objectboard](./ObjectBoard.md).
 
-[Link to Tx4](./Tx4.html).
+[Link to Tx4](./Tx4.md).
