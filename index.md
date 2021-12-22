@@ -4,7 +4,9 @@
 ### Main
  - [ObjectBoard](./ObjectBoard.md)
  - Tx4(soon)
+
 ### Other
+
  - [OsuMapInfo](./OsuMapInfo.md)
  - [Sun](./Sun.md)
 
