@@ -7,7 +7,6 @@
 
 ### Other
 
- - [OsuMapInfo](./OsuMapInfo.md)
  - [Sun](./Sun.md)
 
 # about me
